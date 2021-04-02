@@ -1,5 +1,5 @@
-# golang-example
+# Platform 
 
-![goreleaser](https://github.com/attachmentgenie/golang-example/workflows/goreleaser/badge.svg)
+![goreleaser](https://github.com/gaggl/platform/workflows/goreleaser/badge.svg)
 
 golang starter project
